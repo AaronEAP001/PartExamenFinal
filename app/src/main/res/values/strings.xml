@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FoodEvalEnd</string>
+
+    <!-- Text System login frame -->
+    <string name="text_login_description">Ingresar datos</string>
+    <string name="text_login_title_name">User:</string>
+    <string name="text_login_input_name">Ingresar User</string>
+    <string name="text_login_input_password">Password</string>
+    <string name="text_login_btn_star">Entrar</string>
+    <string name="barrita">/</string>
+    <string name="text_login_btn_not_pass">olvidaste tu contraseña?</string>
+    <string name="text_login_btn_register">Crear Cuenta</string>
+
+    <!-- Text System Register frame -->
+    <string name="text_register_title">Ingresa tus datos para continuar</string>
+    <string name="text_register_insert_email">Ingresa un Correo: </string>
+    <string name="text_register_input_email">Tu Correo</string>
+    <string name="text_register_insert_name">Ingresa Nombres: </string>
+    <string name="text_register_input_name">Tu nombre </string>
+    <string name="text_register_insert_lasname">Ingresa Apellidos: </string>
+    <string name="text_register_input_lasname">Tu apellido </string>
+    <string name="text_register_insert_pass">Ingresa una Contraseña: </string>
+    <string name="btn_register_start">Registrar</string>
+    <string name="btn_yes_user">Ya tienes una cuenta!</string>
+
+    <!-- Text System reset password frame -->
+    <string name="text_reset_title">No Olvidates Tu Contraseña</string>
+    <string name="text_reset_descrip">no te preocupes te ayudamos a recuperar tu contraseña</string>
+    <string name="text_reset_input">Ingresa tu correo</string>
+    <string name="text_btn_reset">ENVIAR</string>
+
+</resources>
